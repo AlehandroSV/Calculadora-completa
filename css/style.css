@@ -12,7 +12,8 @@ li {
 }
 
 body {
-    height: 100%;
+    height: 100vh;
+    background: no-repeat;
     background: white;
     background: linear-gradient(to bottom right, rgb(232, 55, 255), rgb(70, 1, 77) 50%);
     background-size: cover;
@@ -25,7 +26,6 @@ body {
 }
 
 #container {
-    width: 290px;
     text-align: center;
     margin: 15% auto;
 }
