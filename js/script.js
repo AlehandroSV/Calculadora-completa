@@ -35,7 +35,6 @@ for (var i = 0; i < btn.length; i++) {
                         input.innerHTML = eval(equacao);
                     } catch (e) {
                         alert('Erro na expressão');
-
                     }
                 }
                 break;
@@ -64,7 +63,6 @@ for (var i = 0; i < btn.length; i++) {
                         input.innerHTML = eval(equacao);
                     } catch (e) {
                         alert('Erro na expressão');
-
                     }
                 }
                 break;
